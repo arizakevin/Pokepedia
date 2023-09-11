@@ -13,7 +13,7 @@ A simple native iOS app with SwiftUI of a pokedex of 1st gen pokemon featuring l
 <img src="screenshots/4.png" alt="Image 4" width="350"/>
 <br /><br />
 
-<img src="screenshots/5.png" alt="Image 4" width="350"/>
+<img src="screenshots/5.png" alt="Image 5" width="350"/>
 <br /><br />
 
-<img src="screenshots/6.png" alt="Image 4" width="350"/>
+<img src="screenshots/6.png" alt="Image 6" width="350"/>
