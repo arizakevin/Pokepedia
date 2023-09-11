@@ -1,4 +1,4 @@
-# Guidebook-App
+# Pokepedia-App
 A simple native iOS app with SwiftUI of a pokedex of 1st gen pokemon featuring list rendering, drilldown navigation, search, Rest API communication and caching responses and smooth transitions.
 
 <img src="screenshots/1.png" alt="Image 1" width="350"/>
