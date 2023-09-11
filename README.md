@@ -1,5 +1,5 @@
 # Pokepedia-App
-A simple native iOS app with SwiftUI of a pokedex of 1st gen pokemon featuring list rendering, drilldown navigation, search, Rest API communication and caching responses and smooth transitions.
+🔍 Native iOS Pokedex App: Built with SwiftUI, this app showcases 1st gen Pokémon through efficient list rendering. Features include seamless REST API integration, response caching for faster access, and fluid navigation with smooth transitions. 
 
 <img src="screenshots/1.png" alt="Image 1" width="350"/>
 <br /><br />
